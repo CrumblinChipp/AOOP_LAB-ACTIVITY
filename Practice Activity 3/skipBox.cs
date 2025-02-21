@@ -1,6 +1,6 @@
 using System;
 
-public class CurrencyConverter
+public class SkipBox
 {
     public static void Main(string[] args)
     {
