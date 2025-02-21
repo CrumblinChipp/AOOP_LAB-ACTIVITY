@@ -1,6 +1,6 @@
 using System;
 
-public class CurrencyConverter
+public class ExponentHandler
 {
     public static void Main(string[] args)
     {
